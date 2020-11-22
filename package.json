@@ -1,0 +1,25 @@
+{
+  "name": "crustyland",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crystalcrystal-lim/Crustyland.git"
+  },
+  "keywords": [
+    "fashion"
+  ],
+  "author": "Crystal Lim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crystalcrystal-lim/Crustyland/issues"
+  },
+  "homepage": "https://github.com/crystalcrystal-lim/Crustyland#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
